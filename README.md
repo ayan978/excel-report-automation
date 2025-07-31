@@ -1,5 +1,4 @@
 # Excel Report Automation using Python
-
 This project automates the process of cleaning and summarizing messy Excel sales files using Python. It simulates a real-world scenario where monthly sales reports are received as raw Excel files with inconsistent formatting and missing values.
 
 ## What This Project Does
@@ -40,17 +39,6 @@ This file contains:
 - **Python 3**
 - **pandas** – Data cleaning and summarization
 - **openpyxl** – Excel file formatting
-
-## Project Structure
-
-excel-report-automation/
-├── data/ # Raw Excel files (input)
-├── output/ # Cleaned Excel report (output)
-├── generate_inputs.py # Script to create synthetic sales data
-├── main.py # Automation script: read, clean, summarize, format
-├── .gitignore
-├── requirements.txt
-└── README.md
 
 
 ## How to Run This Project
